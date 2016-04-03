@@ -1,0 +1,28 @@
+name: One Film
+favicon: null
+layout_spectrum: 0.03547755745239556
+typography_spectrum: 0.730319325812161
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6101540008094162
+  lightness: 0.26308558881282806
+  saturation: 0.442255100235343
+  rhythmicContrast: 0.7584381364285946
+purpose: []
