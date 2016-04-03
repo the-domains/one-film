@@ -1,7 +1,7 @@
 name: One Film
 favicon: null
 layout_spectrum: 0.26092
-typography_spectrum: 0.730319325812161
+typography_spectrum: 0.79198
 title: One Film
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6101540008094162
+  brandStrength: 0.5
   lightness: 0.26308558881282806
   saturation: 0.442255100235343
   rhythmicContrast: 0.7584381364285946
